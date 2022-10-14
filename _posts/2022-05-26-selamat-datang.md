@@ -1,7 +1,7 @@
 ---
 title : Selamat Datang Di Blog
 layout : post
-pin : true
+image: '/media/selamat-datang/blog.jpeg'
 ---
 
 Selamat datang di blog saya. Jika anda baru disini, maka *sunnah* hukumnya baca ini biar tidak tersesat.

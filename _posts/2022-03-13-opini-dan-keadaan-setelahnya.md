@@ -1,9 +1,9 @@
 ---
 title : Opini dan Keadaan Setelahnya
-layout : post-catatan
+layout : post
 tag :
 - catatan
-pin: true
+image: /media/opini/opini.jpg
 ---
 
 Beribu - ribu opini telah tertulis, apakah Indonesia berubah menjadi lebih baik setelahnya? Sayang sekali jawabannya tidak. Lalu jika beropini saja tidak merubah, apakah mending tidak usah beropini? Jawabannya juga tidak.
