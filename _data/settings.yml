@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  disqus_shortname: 
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 
@@ -20,11 +20,11 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'Terbaru'
+  previous_page: 'Terlama'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Boleh dishare'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'Mungkin anak berminat:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Ditulis pada'
