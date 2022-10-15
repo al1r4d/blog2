@@ -15,6 +15,3 @@ Baru saja kemarin saya membaca buku [Selamat Tinggal](https://www.gramedia.com/b
 > *Tapi jutaan anak muda di luar sana. Anak - anak kami, mereka akan membacanya. Maka tumbuh sudah rasa peduli di hati mereka. Masih kecil, hanya sebesar nyala lilin hari ini, besok lusa, saat nyala lilin itu terus dijaga, terus dirawat dengan tulisan berikutnya, berikutnya, ia bisa berubah menjadi kobaran api revolusi. Saat mereka berjanji akan mengubah negeri ini, menjadi lebih adil. Saat mereka siap menggantikan Tuan dan Nyonya, lantas menyingkirkan para oportunis dan penjilat.*
 > 
 > *Jadi jangan salah sangka, Tuan dan Nyonya. Tulisan itu untuk mereka, untuk anak - anak kami yang kelak akan lebih jujur, memiliki kehormatan, serta amat mencintai negeri ini*.
-
-## Kesimpulan
-Tetap beropini, namun jangan lupa bergerak sesuai opini.
