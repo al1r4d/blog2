@@ -17,7 +17,7 @@ Setiap orang mempunyai preferensi musik masing - masing. Kebanyakan dari orang -
 
 Musik Indie dalam kulit kacang hanyalah artis yang memproduksi dan mendistribusikan lagunya secara mandiri. Apakah musisi ini bermusik tanpa label rekaman? Belum tentu! Ada juga yang mananya label rekaman independen, seperti Anoa Records. Yang membedakan label rekaman independen dari yang lain adalah label ini mendistribusikan dalam jumlah kecil. Sebagian menyebut label independen tidak mengatur gaya bermain, tidak seperti Major Label.
 
-Menurut saya, musik Indie mulai dikenal secara luas ketika tahun 2017. Pada waktu itu, Band Payung Teduh sedang hangat - hangatnya didengarkan. Lagu - lagu, seperti "**Untuk Perempuan Yang Sedang Di Pelukan**, "**Resah**", dan "**Menuju Senja**" sukses menemani kafe - kafe. Selain Payung Teduh, ada juga artis Danilla, Fourtwnty, dan Banda Neira.
+Menurut saya, musik Indie mulai dikenal (lagi) secara luas ketika tahun 2017. Pada waktu itu, Band Payung Teduh sedang hangat - hangatnya didengarkan. Lagu - lagu, seperti "**Untuk Perempuan Yang Sedang Di Pelukan**, "**Resah**", dan "**Menuju Senja**" sukses menemani kafe - kafe. Selain Payung Teduh, ada juga artis Danilla, Fourtwnty, dan Banda Neira.
 
 Puncaknya di tahun 2018 - 2019. Musik Indonesia didominasi artis indie, sebut saja Hindia, Feast, Pamungkas, Nadin Amizah, Reality Club, Adhitia Sofyan, Dialog Senja, dan masih banyak lagi yang tidak bisa saya sebutkan.
 
