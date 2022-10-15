@@ -1,7 +1,7 @@
 ---
 title : Masa Indah Banget Sekali Pisan
 layout : post
-tag : [musik, catatan]
+categories : [musik, catatan]
 image: /media/teman-bernama-musik/Themilo.jpg
 ---
 
