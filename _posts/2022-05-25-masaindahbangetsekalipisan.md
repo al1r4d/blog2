@@ -11,7 +11,7 @@ Musik telah menjadi saksi perkembangan kehidupan manusia. Beberapa orang menjadi
 
 Selama masa penjajahan, musik turut membantu semangat perjuangan. Seorang pahlawan jalur musik, W.R Supratman menciptakan lagu kebangsaan Indonesia Raya yang menjadi penyemangat untuk bersatu melawan penjajahan.
 
-## Indies Indonesia
+## Mengingat Kembali Indies Indonesia Lama
 
 Setiap orang mempunyai preferensi musik masing - masing. Kebanyakan dari orang - orang mendengarkan musik yang sedang tren sehingga cenderung sama. Tapi di kejauhan sana, ada orang yang mendengarkan musik yang jarang diketahui. Musik itu biasa dinyanyikan oleh artis Indie, singkatan dari kata Indenpenden.
 
