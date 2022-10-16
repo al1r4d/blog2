@@ -7,7 +7,7 @@ permalink: /perihal
 <img class="kanan" style="max-width: 200px;" src="/media/author.jpg">
 Nama saya Alif Radhitya Wardana. Seorang pelajar sekolah menengah atas dan anggota [Kelompok Linux Arek Suroboyo](https://klas.or.id).
 
-Pengguna GNU/Linux dan pecinta program sumber terbuka. Setiap hari menggunakannya [Devuan GNU/Linux](https://devuan.org) untuk menikmati hidup dan mengerjakan tugas. 
+Pengguna GNU/Linux dan pecinta program sumber terbuka. Setiap hari menggunakannya [Gentoo GNU/Linux](https://gentoo.org) untuk menikmati hidup dan mengerjakan tugas. 
 
 Orang memanggil saya sebagai *bocah indie* karena antusiasme saya terhadap musik indie, khususnya Indonesia. Di rumah, saya mengoleksi beberapa kaset pita musisi Indie terkenal, seperti SORE ze band, Rumahsakit, dan lain - lain.
 

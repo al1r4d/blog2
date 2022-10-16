@@ -42,7 +42,7 @@ Ketika anda mendengarkan musik melalui Spotify, bermain game dari Steam, atau me
 
 Kemungkinan sedikit industri hiburan digital yang tidak menggunakan DRM. Antisipasi terbebas dari DRM adalah membeli barang secara fisik. Dengan fisik, anda bebas melakukan apa saja. Tidak ada batasan, pemantauan, dan lain - lain.
 ## Mereka Langitkan Kepalan
-![](/media/drm/melawan.jpg)
+![](/media/drm/melawan.jpg){:.kanan}
 
 Defective by Design adalah kampanye yang diluncurkan oleh Free Software Foundation pada tahun 2006. Setelah berbulan-bulan berkampanye, Defective by Design mendeklarasikan Selasa 3 Oktober 2006, sebagai “Hari Melawan DRM” internasional.
 
@@ -56,3 +56,9 @@ Defective by Design telah memprotes DRM sejak 2006, dan mereka telah meraih suks
 > *Apa guna punya ilmu tinggi kalau hanya untuk mengibuli...*
 
 Saya kesal melihat teknologi zaman sekarang. Ketika orang berilmu tinggi menciptakan perangkap *Digital Rights Management* dalam hiburan industri. Sudah berapa keuntungan yang dihasilkan dari penipuan perangkap mereka? Seharusnya orang sadar bahwa DRM adalah tindak kriminal dan harus dihapus tindakannya. Jika orang tidak sadar, para despot akan menipu kita selamanya.
+
+Apa yang harus kita lakukan?<br>
+**Dukung komunitas/artis/idola anda dengan membeli fisik.**
+<center><b>**</b></center>
+Akan diperbarui berkala<br>
+Ketika saya mendapat ilham terbaru.

@@ -27,7 +27,7 @@ Saya ucapkan terima kasih kepada kawan - kawan Poptastic! Records yang membantu 
 
 > Mengapa nama judulnya *masaindahbangetsekalipisan*?
 
-![](/media/teman-bernama-musik/masaindahbangetsekalipisan.jpg){: width="200" height="200" style="max-width: 200px" .right}
+![](/media/teman-bernama-musik/masaindahbangetsekalipisan.jpg){: width="200" height="200" style="max-width: 200px" .kanan}
 
 Nama tersebut adalah nama album kompilasi yang menampilkan band - band yang nantinya menjadi band terkenal, sebut saja **Burgerkill**. Album ini sebagai tonggak lahirnya era kebangkitan musik Independen di Indonesia. Meskipun bersifat kompilasi, nyatanya *masaindahsekalipisan* dapat menembus dalam daftar 150 Album Indonesia Terbaik versi Majalah Rolling Stone Indonesia pada 2007.
 
@@ -180,7 +180,7 @@ Kampus IKJ banyak melahirkan artis Indie, termasuk White Shoes & The Couples Com
 
 Dalam pandangan saya, mereka menampilkan pop dan jazz gaya retro. White Shoes and The Couples Company terkenal lewat lagu **Kisah Dari Selatan Jakarta** dan **Senandung Maaf**. Juga dalam video musiknya menyajikan suasan kuno. Bahkan salah satu video musiknya menggunakan kamera Film 8mm.
 
-Di album pertama, saya suka dengan Windu & Defrina, Senandung Maaf, dan Tentang Cita. Lagu tersebut enak dibuat goyang karena pop *catchy* nya. Tidak salah jika Pak Senandung Maaf memilih Windu Defrina sebagai soundtrack Film Janji Joni.
+Di album pertama, saya suka dengan Windu & Defrina, Senandung Maaf, dan Tentang Cita. Lagu tersebut enak dibuat goyang karena pop *catchy* nya. Tidak salah jika Senandung Maaf sebagai soundtrack Film Janji Joni.
 
 Album kedua, Skenario Masa Muda, saya tidak terlalu banyak mengerti tentang lagu ini. Hanya mengenal **Roman Ketiga**, **Aksi Kucing**, dan **Pelan Tapi Pasti**. Nuansanya masih sama seperti album sebelumnya, khas retro.
 
@@ -225,3 +225,5 @@ The Adams mengeluarkan album Agterplass di pengujung tahun 2019. Saat pertama ka
  
 ## Penutup
 Hanya segitu saja catatan saya tentang musik indie lawas Indonesia. Memang jumlah yang diberikan masih sedikit. Masih ada yang lain, seperti **Annemarie**, **The Monophones**, **Blossom Diary**, dan lain - lain. Tetapi saya hanya mengenal mereka sebatas mendengarkan 1 - 2 lagu saja.
+<center><b>**</b></center>
+Suatu saat saya akan memperbarui catatan ini, jika saya ada waktu.
