@@ -7,12 +7,9 @@ permalink: /perihal
 <img class="kanan" style="max-width: 200px;" src="/media/author.jpg">
 Nama saya Alif Radhitya Wardana. Seorang pelajar sekolah menengah atas dan anggota [Kelompok Linux Arek Suroboyo](https://klas.or.id).
 
-Pengguna GNU/Linux dan pecinta program sumber terbuka. Setiap hari menggunakannya [Gentoo GNU/Linux](https://gentoo.org) untuk menikmati hidup dan mengerjakan tugas. 
+Pengguna GNU/Linux dan pecinta program sumber terbuka. Setiap hari menggunakannya [Gentoo GNU/Linux](https://gentoo.org) untuk sehari - hari dan mengerjakan tugas. Meskipun saya terbiasa tampilan *command line interface*, percayalah saya bukan programmer, apalagi hacker.
 
-Orang memanggil saya sebagai *bocah indie* karena antusiasme saya terhadap musik indie, khususnya Indonesia. Di rumah, saya mengoleksi beberapa kaset pita musisi Indie terkenal, seperti SORE ze band, Rumahsakit, dan lain - lain.
-
-Terakhir, saya konservatif dalam bersikap dan bertindak. Jadi jangan kaget kalau saya tidak sependapat dengan anda yang progesif.
-
+Saya penggemar musik indie. Di rumah, saya mengoleksi kaset - kaset, terutama musik indie lokal. Pure Saturday, Chery Bombshell, Rumahsakit, Themilo, dan lain - lain.
 ## Kontak
 Mungkin anda tertarik berbicara kepada saya. Entah tentang Linux, musik indie, atau hal lainnya yang mungkin menarik untuk dibicarakan.
 
