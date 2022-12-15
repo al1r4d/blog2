@@ -1,7 +1,7 @@
 ---
 title: Sekarang
 layout: page
-permalink: /sekarang
+permalink: /sekarang.html
 ---
 
 - *Content Creator* tentang FOSS & Linux di situsali.com
