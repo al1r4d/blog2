@@ -11,13 +11,6 @@ Setiap hari menggunakannya Linux untuk sehari - hari dan mengerjakan tugas. Mesk
 
 Saya penggemar musik indie. Di rumah, saya mengoleksi kaset - kaset, terutama musik indie lokal. Pure Saturday, Chery Bombshell, Rumahsakit, Themilo, dan lain - lain.
 
-## Sekarang
-Saya aktif dalam berbagai bidang:
-- Content Creator tentang FOSS & Linux di situsali.com
-- Divisi Pelatihan dan Humas di Kelompok Linux Arek Suroboyo.
-
-
-
 ## Kontak
 Mungkin anda tertarik berbicara kepada saya. Entah tentang Linux, musik indie, atau hal lainnya yang mungkin menarik untuk dibicarakan.
 
