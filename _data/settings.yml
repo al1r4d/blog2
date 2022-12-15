@@ -10,9 +10,9 @@ menu:
 - {name: 'Perihal',   url: 'perihal.html'}
 - {name: 'Arsip', url: 'arsip.html'}
 - {name: 'Kontak', url: 'kontak.html'}
-- {name: 'Kurasi', url: 'kurasi.html'}
+- {name: 'Sekarang', url: 'sekarang.html'}
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+  # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'envelope',   link: 'mailto:al1r4d@riseup.net'}
 - {icon: 'rss-square', link: '/feed.xml'}

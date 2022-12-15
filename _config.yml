@@ -19,11 +19,11 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Alirad'
-description:	       'Part Time Geek, Full Time Idiot'
+title:		           'Alrd'
+description:	       'Klandestin Blog For Silent Wars'
 author:              'Alif Radhitya'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
