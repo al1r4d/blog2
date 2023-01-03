@@ -7,7 +7,7 @@ permalink: /perihal
 <img class="kanan" style="max-width: 200px;" src="/media/author.jpg">
 Nama saya Alif Radhitya Wardana. Seorang pelajar sekolah menengah atas di Surabaya.
 
-Saya menggunakan Linux untuk sehari - hari. Void Linux di laptop dan Parabola Linux di komputer.
+Saya menggunakan Linux untuk sehari - hari. Masa lalu di Gentoo Linux dan sekarang di Arch Linux.
 
 Saya penggemar musik indie. Di rumah, saya mengoleksi kaset - kaset, terutama musik indie lokal, seperti Pure Saturday, Chery Bombshell, Rumahsakit, Themilo, dan lain - lain.
 
