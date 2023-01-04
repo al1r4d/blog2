@@ -9,8 +9,6 @@ Nama saya Alif Radhitya Wardana. Seorang pelajar sekolah menengah atas di Suraba
 
 Saya menggunakan Linux untuk sehari - hari. Masa lalu di Gentoo Linux dan sekarang di Arch Linux.
 
-Saya penggemar musik indie. Di rumah, saya mengoleksi kaset - kaset, terutama musik indie lokal, seperti Pure Saturday, Chery Bombshell, Rumahsakit, Themilo, dan lain - lain.
-
 ## Kontak
 
 Saya lebih suka berkomunikasi lewat email. Ketika komputer saya sedang menyala, klien email saya sedang terbuka. Biasanya saya membalas dalam waktu 24 jam, namun terkadang membutuhkan satu atau dua hari. Alamat email saya adalah ***al1r4d at riseup periode net***. 
