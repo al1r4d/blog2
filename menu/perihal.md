@@ -15,7 +15,6 @@ Saya lebih suka berkomunikasi lewat email. Ketika komputer saya sedang menyala, 
 
 Saya juga aktif bersosial media di Mastodon. Nama akun saya [***@al1r4d@pegelinux.top***](https://pegelinux.top/@al1r4d). Tidak seperti Twitter, yang terpusat, Anda dapat mengikuti atau berinteraksi dengan saya di server yang kompatibel dengan fediverse/ActivityPub.
 
-Untuk pesan instan, saya punya dua opsi : **Telegram** dengan nama pengguna ***@al1r4d***
-
+Untuk pesan instan, saya punya **Telegram** dengan nama pengguna ***@al1r4d***.
 ## Tentang Alrd
 Blog **alif.radhitya.my.id** adalah blog pribadi yang dibuat sebagai sarana tulisan saya. Topik yang dibicarakan beragam. Blog ini adalah tulisan - tulisan telah dikurasi yang sekiranya cocok untuk umum. Adapun bagian mentah dapat dibaca di [radhitya.my.id](https://radhitya.my.id)
