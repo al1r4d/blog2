@@ -13,3 +13,9 @@ Perangkat tempur saya adalah Thinkpad T440P dan Ultra Dock Thinkpad. Dock terseb
 Distro yang saya gunakan adalah Arch Linux. Alasan memilih karena **saya tidak punya waktu untuk memodifikasi dan ingin minimalis**. Agak menelan ludah sendiri sebab saya dikenal sebagai **pembenci systemd**.
 
 Saya menggunakan **dynamic window manager** sebagai _window manager_ yang telah dikemas sederhana. _Desktop environment_ melambatkan pergerakan saya sehingga saya tidak memakainya.
+
+Vim atau Emacs? Sudah pasti saya memilih Emacs. Tapi tetap saja saya memasang Vim di Arch.
+
+**mksh** adalah kawan lama saya. Saya sedikit bosan dengan tampilan standar **mksh**. Sekarang saya menggunakan **zsh** plus **oh my zsh**.
+
+Udah segitu aja. Sampai bertemu di lain waktu. 
