@@ -5,7 +5,7 @@ permalink: /perihal
 ---
 ## Pemilik
 <img class="kanan" style="max-width: 200px;" src="/media/author.jpg">
-Nama saya Alif Radhitya Wardana. Seorang pelajar sekolah menengah atas di Surabaya.
+Nama saya Alif Radhitya Wardana. Seorang [Smalane](https://id.wikipedia.org/wiki/SMA_Negeri_5_Surabaya) dan mantan [Rholas](https://id.wikipedia.org/wiki/SMP_Negeri_12_Surabaya).
 
 Saya menggunakan Linux untuk sehari - hari. Masa lalu di Gentoo Linux dan sekarang di Arch Linux.
 
